@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "yaseenazuredatafactory"
+		},
+		"ls_yaseendatafactorystorage_accountKey": {
+			"value": ""
+		},
+		"ls_yaseendfsqlserver_password": {
+			"value": ""
+		},
+		"ls_rest_api_properties_typeProperties_url": {
+			"value": "https://pokeapi.co/api/v2/pokemon"
+		},
+		"ls_yaseendatafactorystorage_properties_typeProperties_url": {
+			"value": "https://yaseendatafactorystorage.dfs.core.windows.net/"
+		},
+		"ls_yaseendfsqlserver_properties_typeProperties_server": {
+			"value": "yaseendfsqlserver.database.windows.net"
+		},
+		"ls_yaseendfsqlserver_properties_typeProperties_database": {
+			"value": "yaseenDB"
+		},
+		"ls_yaseendfsqlserver_properties_typeProperties_userName": {
+			"value": "yaseen"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
