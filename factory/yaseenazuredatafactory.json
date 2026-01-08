@@ -1,0 +1,9 @@
+{
+	"name": "yaseenazuredatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2f5c0f2-15ff-45fb-9fa7-ce3272745648",
+		"tenantId": "699981fe-a368-49f3-b8ad-deb4bcab15a9"
+	}
+}
